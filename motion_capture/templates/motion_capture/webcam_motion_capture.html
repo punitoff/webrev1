@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Webcam Motion Capture</title>
+    <style>
+        #video-feed {
+            display: block;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Webcam Motion Capture</h1>
+    <div>
+        <img id="video-feed" src="{% url 'webcam_motion_capture' %}">
+    </div>
+    <script>
+        // Auto-refresh the video feed every 100ms
+        setInterval(function() {
+            var img = document.getElementById('video-feed');
+            img.src = img.src.split('?')[0] + '?' + new Date().getTime();
+        }, 100);
+    </script>
+</body>
+</html>
