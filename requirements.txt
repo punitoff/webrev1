@@ -1,0 +1,30 @@
+absl-py==1.4.0
+altgraph @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/altgraph-0.17.2-py2.py3-none-any.whl
+asgiref==3.6.0
+attrs==23.1.0
+cffi==1.15.1
+contourpy==1.0.7
+cycler==0.11.0
+Django==4.2
+flatbuffers==23.5.26
+fonttools==4.39.4
+future @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/future-0.18.2-py3-none-any.whl
+importlib-resources==5.12.0
+kiwisolver==1.4.4
+macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/macholib-1.15.2-py2.py3-none-any.whl
+matplotlib==3.7.1
+mediapipe==0.10.1
+numpy==1.24.3
+opencv-contrib-python==4.7.0.72
+opencv-python==4.7.0.72
+packaging==23.1
+Pillow==9.5.0
+protobuf==3.20.3
+pycparser==2.21
+pyparsing==3.0.9
+python-dateutil==2.8.2
+pytz==2022.7.1
+six @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/six-1.15.0-py2.py3-none-any.whl
+sounddevice==0.4.6
+sqlparse==0.4.3
+zipp==3.15.0
